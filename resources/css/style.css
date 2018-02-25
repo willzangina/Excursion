@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+h1 {
+  font-size: 50px;
+  font-weight: normal;
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
+.landscape p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+  text-align: center;
+}
+.landscape h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+h3, a {
+  text-align: center;
+  font-size: 16px;
+  color: Aquamarine;
+}
