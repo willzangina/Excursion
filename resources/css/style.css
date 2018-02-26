@@ -26,3 +26,7 @@ h3, a {
   font-size: 16px;
   color: Aquamarine;
 }
+.footer p {
+  text-align: right;
+  color: gray;
+}
